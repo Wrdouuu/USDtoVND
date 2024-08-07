@@ -7,11 +7,12 @@ namespace USDTOVND
 
         static void Main(string[] args)
         {
-            float USD;
-            float VND;
+            float usd;
+            float vnd;
             Console.WriteLine("Amount of USD= ");
-            USD = float.Parse(Console.ReadLine());
-            Console.WriteLine("USD to VND= "+ USD * 23000 +"d");
+            usd = float.Parse(Console.ReadLine());
+            vnd = usd * 23000;
+            Console.WriteLine("USD to VND= "+vnd);
         }
     }
 }

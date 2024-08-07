@@ -12,3 +12,4 @@ C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\refint\USDtoVND.dll
 C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\USDtoVND.pdb
 C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\USDtoVND.genruntimeconfig.cache
 C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\ref\USDtoVND.dll
+C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\USDtoVND.sourcelink.json
