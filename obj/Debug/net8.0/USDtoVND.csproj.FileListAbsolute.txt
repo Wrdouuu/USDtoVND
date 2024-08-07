@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\USDtoVND\bin\Debug\net8.0\USDtoVND.exe
+C:\Users\admin\Desktop\Bai tap\USDtoVND\bin\Debug\net8.0\USDtoVND.deps.json
+C:\Users\admin\Desktop\Bai tap\USDtoVND\bin\Debug\net8.0\USDtoVND.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\USDtoVND\bin\Debug\net8.0\USDtoVND.dll
+C:\Users\admin\Desktop\Bai tap\USDtoVND\bin\Debug\net8.0\USDtoVND.pdb
+C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\USDtoVND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\USDtoVND.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\USDtoVND.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\USDtoVND.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\USDtoVND.dll
+C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\refint\USDtoVND.dll
+C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\USDtoVND.pdb
+C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\USDtoVND.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\USDtoVND\obj\Debug\net8.0\ref\USDtoVND.dll
